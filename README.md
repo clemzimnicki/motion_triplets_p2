@@ -1,2 +1,2 @@
-# motion_triplets_p2
-Study using triadic judgments of moving dots to understand individual differences in low-level vision
+# motion_triplets
+An experiment to test for individual differences in similiarity judgments of moving dots, i.e. motion.
