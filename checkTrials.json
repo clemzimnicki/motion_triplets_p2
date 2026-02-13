@@ -1,1 +1,17 @@
-checkList = [{head: "img/15dot.gif", choice_1: "img/15dot.gif", choice_2: "img/105dot.gif", correct_choice:0}, {head: "img/160dot.gif", choice_1: "img/160dot.gif", choice_2: "img/70dot.gif", correct_choice:0}, {head: "img/130dot.gif", choice_1: "img/130dot.gif", choice_2: "img/40dot.gif", correct_choice:0}, {head: "img/150dot.gif", choice_1: "img/150dot.gif", choice_2: "img/60dot.gif", correct_choice:0}, {head: "img/10dot.gif", choice_1: "img/10dot.gif", choice_2: "img/100dot.gif", correct_choice:0}, {head: "img/170dot.gif", choice_1: "img/170dot.gif", choice_2: "img/80dot.gif", correct_choice:0}, {head: "img/45dot.gif", choice_1: "img/45dot.gif", choice_2: "img/135dot.gif", correct_choice:0}, {head: "img/105dot.gif", choice_1: "img/15dot.gif", choice_2: "img/105dot.gif", correct_choice:1}, {head: "img/100dot.gif", choice_1: "img/20dot.gif", choice_2: "img/100dot.gif", correct_choice:1}, {head: "img/140dot.gif", choice_1: "img/50dot.gif", choice_2: "img/140dot.gif", correct_choice:1}, {head: "img/130dot.gif", choice_1: "img/40dot.gif", choice_2: "img/130dot.gif", correct_choice:1}, {head: "img/160dot.gif", choice_1: "img/70dot.gif", choice_2: "img/160dot.gif", correct_choice:1}, {head: "img/105dot.gif", choice_1: "img/15dot.gif", choice_2: "img/105dot.gif", correct_choice:1}, {head: "img/110dot.gif", choice_1: "img/20dot.gif", choice_2: "img/110dot.gif", correct_choice:1}, {head: "img/105dot.gif", choice_1: "img/175dot.gif", choice_2: "img/105dot.gif", correct_choice:1}]
+checkList = [
+    {head: "dots_015deg.gif", choice_1: "dots_015deg.gif", choice_2: "dots_105deg.gif", correct_choice: 0},
+    {head: "dots_160deg.gif", choice_1: "dots_160deg.gif", choice_2: "dots_070deg.gif", correct_choice: 0},
+    {head: "dots_130deg.gif", choice_1: "dots_130deg.gif", choice_2: "dots_040deg.gif", correct_choice: 0},
+    {head: "dots_150deg.gif", choice_1: "dots_150deg.gif", choice_2: "dots_060deg.gif", correct_choice: 0},
+    {head: "dots_010deg.gif", choice_1: "dots_010deg.gif", choice_2: "dots_100deg.gif", correct_choice: 0},
+    {head: "dots_170deg.gif", choice_1: "dots_170deg.gif", choice_2: "dots_080deg.gif", correct_choice: 0},
+    {head: "dots_045deg.gif", choice_1: "dots_045deg.gif", choice_2: "dots_135deg.gif", correct_choice: 0},
+    {head: "dots_105deg.gif", choice_1: "dots_015deg.gif", choice_2: "dots_105deg.gif", correct_choice: 1},
+    {head: "dots_100deg.gif", choice_1: "dots_020deg.gif", choice_2: "dots_100deg.gif", correct_choice: 1},
+    {head: "dots_140deg.gif", choice_1: "dots_050deg.gif", choice_2: "dots_140deg.gif", correct_choice: 1},
+    {head: "dots_130deg.gif", choice_1: "dots_040deg.gif", choice_2: "dots_130deg.gif", correct_choice: 1},
+    {head: "dots_160deg.gif", choice_1: "dots_070deg.gif", choice_2: "dots_160deg.gif", correct_choice: 1},
+    {head: "dots_105deg.gif", choice_1: "dots_015deg.gif", choice_2: "dots_105deg.gif", correct_choice: 1},
+    {head: "dots_110deg.gif", choice_1: "dots_020deg.gif", choice_2: "dots_110deg.gif", correct_choice: 1},
+    {head: "dots_105deg.gif", choice_1: "dots_175deg.gif", choice_2: "dots_105deg.gif", correct_choice: 1}
+  ]
